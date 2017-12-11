@@ -1,0 +1,444 @@
+{
+    "name": "rainglow",
+    "version": "1.0.0",
+    "displayName": "Rainglow",
+    "description": "Rainglow color themes by Dayle Rees",
+    "publisher": "Dayle Rees",
+    "repository": "https://github.com/rainglow/vscode",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Arstotzka (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/arstotzka.json"
+            },
+            {
+                "label": "Azure (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/azure.json"
+            },
+            {
+                "label": "Bold (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/bold.json"
+            },
+            {
+                "label": "Box UK (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/boxuk.json"
+            },
+            {
+                "label": "Carbonight Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/carbonight-contrast.json"
+            },
+            {
+                "label": "Carbonight (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/carbonight.json"
+            },
+            {
+                "label": "Chocolate (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/chocolate.json"
+            },
+            {
+                "label": "Crisp (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/crisp.json"
+            },
+            {
+                "label": "Darkside Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/darkside-contrast.json"
+            },
+            {
+                "label": "Darkside (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/darkside.json"
+            },
+            {
+                "label": "Earthsong Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/earthsong-contrast.json"
+            },
+            {
+                "label": "Earthsong (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/earthsong.json"
+            },
+            {
+                "label": "Earthsong Light (rainglow)",
+                "uiTheme": "vs-light",
+                "path": "./themes/earthsong-light.json"
+            },
+            {
+                "label": "Freshcut Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/freshcut-contrast.json"
+            },
+            {
+                "label": "Freshcut (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/freshcut.json"
+            },
+            {
+                "label": "Frontier Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/frontier-contrast.json"
+            },
+            {
+                "label": "Frontier (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/frontier.json"
+            },
+            {
+                "label": "Github (rainglow)",
+                "uiTheme": "vs-light",
+                "path": "./themes/github.json"
+            },
+            {
+                "label": "Gloom Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gloom-contrast.json"
+            },
+            {
+                "label": "Gloom (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gloom.json"
+            },
+            {
+                "label": "Glowfish Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/glowfish-contrast.json"
+            },
+            {
+                "label": "Glowfish (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/glowfish.json"
+            },
+            {
+                "label": "Grunge Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/grunge-contrast.json"
+            },
+            {
+                "label": "Grunge (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/grunge.json"
+            },
+            {
+                "label": "Halflife Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/halflife-contrast.json"
+            },
+            {
+                "label": "Halflife (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/halflife.json"
+            },
+            {
+                "label": "Heroku (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/heroku.json"
+            },
+            {
+                "label": "Hyrule Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hyrule-contrast.json"
+            },
+            {
+                "label": "Hyrule (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hyrule.json"
+            },
+            {
+                "label": "Iceberg Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/iceberg-contrast.json"
+            },
+            {
+                "label": "Iceberg (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/iceberg.json"
+            },
+            {
+                "label": "Juicy Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/juicy-contrast.json"
+            },
+            {
+                "label": "Juicy (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/juicy.json"
+            },
+            {
+                "label": "Keen Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/keen-contrast.json"
+            },
+            {
+                "label": "Keen (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/keen.json"
+            },
+            {
+                "label": "Kiwi (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/kiwi.json"
+            },
+            {
+                "label": "Laravel Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/laravel-contrast.json"
+            },
+            {
+                "label": "Laravel (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/laravel.json"
+            },
+            {
+                "label": "Lavender Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lavender-contrast.json"
+            },
+            {
+                "label": "Lavender (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lavender.json"
+            },
+            {
+                "label": "Legacy (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/legacy.json"
+            },
+            {
+                "label": "Mellow Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mellow-contrast.json"
+            },
+            {
+                "label": "Mellow (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mellow.json"
+            },
+            {
+                "label": "Mintchoc (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mintchoc.json"
+            },
+            {
+                "label": "Mud Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mud-contrast.json"
+            },
+            {
+                "label": "Mud (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mud.json"
+            },
+            {
+                "label": "Otakon (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/otakon.json"
+            },
+            {
+                "label": "Pastel (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pastel.json"
+            },
+            {
+                "label": "Patriot Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/patriot-contrast.json"
+            },
+            {
+                "label": "Patriot (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/patriot.json"
+            },
+            {
+                "label": "Peacock Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/peacock-contrast.json"
+            },
+            {
+                "label": "Peacock (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/peacock.json"
+            },
+            {
+                "label": "Peacocks In Space (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/peacocks-in-space.json"
+            },
+            {
+                "label": "Peel (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/peel.json"
+            },
+            {
+                "label": "Piggy (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/piggy.json"
+            },
+            {
+                "label": "Potpourri Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/potpourri-contrast.json"
+            },
+            {
+                "label": "Potpourri (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/potpourri.json"
+            },
+            {
+                "label": "Rainbow (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/rainbow.json"
+            },
+            {
+                "label": "Revelation Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/revelation-contrast.json"
+            },
+            {
+                "label": "Revelation (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/revelation.json"
+            },
+            {
+                "label": "Shrek (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/shrek.json"
+            },
+            {
+                "label": "Slate (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/slate.json"
+            },
+            {
+                "label": "Slime Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/slime-contrast.json"
+            },
+            {
+                "label": "Slime (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/slime.json"
+            },
+            {
+                "label": "Snappy Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/snappy-contrast.json"
+            },
+            {
+                "label": "Snappy Light (rainglow)",
+                "uiTheme": "vs-light",
+                "path": "./themes/snappy-light.json"
+            },
+            {
+                "label": "Snappy (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/snappy.json"
+            },
+            {
+                "label": "Solarflare Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/solarflare-contrast.json"
+            },
+            {
+                "label": "Solarflare (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/solarflare.json"
+            },
+            {
+                "label": "Sourlick Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sourlick-contrast.json"
+            },
+            {
+                "label": "Sourlick (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sourlick.json"
+            },
+            {
+                "label": "Spearmint (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/spearmint.json"
+            },
+            {
+                "label": "Stark Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/stark-contrast.json"
+            },
+            {
+                "label": "Stark (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/stark.json"
+            },
+            {
+                "label": "Super (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/super.json"
+            },
+            {
+                "label": "Tonic (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tonic.json"
+            },
+            {
+                "label": "Tribal (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tribal.json"
+            },
+            {
+                "label": "Tron Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tron-contrast.json"
+            },
+            {
+                "label": "Tron (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tron.json"
+            },
+            {
+                "label": "Turnip Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/turnip-contrast.json"
+            },
+            {
+                "label": "Turnip (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/turnip.json"
+            },
+            {
+                "label": "Userscape (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/userscape.json"
+            },
+            {
+                "label": "Yule (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/yule.json"
+            },
+            {
+                "label": "Zacks Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zacks-contrast.json"
+            },
+            {
+                "label": "Zacks (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zacks.json"
+            }
+        ]
+    }
+}
