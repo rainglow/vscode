@@ -477,7 +477,7 @@
         "button.foreground":"#ffffff",
         "panel.background":"#262222",
         "editorWidget.background":"#262222",
-        "editorWidget.border":"#f03113",
+        "editorWidget.border":"#403b3b",
         "panelTitle.activeBorder":"#ffbb29",
         "dropdown.background":"#060505",
         "dropdown.border":"#060505",
