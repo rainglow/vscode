@@ -7,7 +7,7 @@
     "repository": "https://github.com/rainglow/vscode",
     "license": "MIT",
     "icon": "icon.png",
-    "keywords": ["rainglow", "dayle", "rees", "color", "colour", "schemes", "themes", "peacock"],
+    "keywords": ["rainglow", "dayle", "rees", "peacock"],
     "engines": {
         "vscode": "^1.13.0"
     },
