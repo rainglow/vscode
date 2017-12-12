@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "displayName": "Rainglow",
     "description": "Rainglow color themes by Dayle Rees",
-    "publisher": "Dayle Rees",
+    "publisher": "daylerees",
     "repository": "https://github.com/rainglow/vscode",
     "license": "MIT",
     "engines": {
@@ -31,7 +31,7 @@
             },
             {
                 "label": "Box UK (rainglow)",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs-light",
                 "path": "./themes/boxuk.json"
             },
             {
@@ -123,6 +123,11 @@
                 "label": "Glowfish (rainglow)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/glowfish.json"
+            },
+            {
+                "label": "Goldfish (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/goldfish.json"
             },
             {
                 "label": "Grunge Contrast (rainglow)",
@@ -421,7 +426,7 @@
             },
             {
                 "label": "Userscape (rainglow)",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs-light",
                 "path": "./themes/userscape.json"
             },
             {
