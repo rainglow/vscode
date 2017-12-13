@@ -4,9 +4,12 @@
 
 ## Visual Studio Code
 
+![Installs](https://img.shields.io/vscode-marketplace/d/daylerees.rainglow.svg)
+![Rating](https://img.shields.io/vscode-marketplace/r/daylerees.rainglow.svg)
+
 Rainglow is a collection of color themes for a number of different editors and platforms. This repository consists of eighty or more syntax and UI themes for [Visual Studio Code](https://code.visualstudio.com/).
 
-See [some examples](https://github.com/rainglow/vscode/tree/master/examples).
+<a href="https://github.com/rainglow/vscode/blob/master/examples/first.png"><img src="https://github.com/rainglow/vscode/blob/master/examples/first.png" width="160" /></a><a href="https://github.com/rainglow/vscode/blob/master/examples/second.png"><img src="https://github.com/rainglow/vscode/blob/master/examples/second.png" width="160" /></a>
 
 To show support for the project, you can do any (or many!) of the following:
 
