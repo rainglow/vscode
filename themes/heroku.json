@@ -1,5 +1,6 @@
 {
     "name": "heroku",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#5d5d7b",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#58548044",
-        "editorBracketMatch.border":"#7873ae"
+        "editorBracketMatch.border":"#7873ae",
+        "notification.background":"#262633",
+        "notification.foreground":"#c8c7d5",
+        "notification.buttonBackground":"#585480",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

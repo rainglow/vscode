@@ -1,5 +1,6 @@
 {
     "name": "hyrule-contrast",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#585858",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#f5c50444",
-        "editorBracketMatch.border":"#569e16"
+        "editorBracketMatch.border":"#569e16",
+        "notification.background":"#191919",
+        "notification.foreground":"#c0d5c1",
+        "notification.buttonBackground":"#f5c504",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

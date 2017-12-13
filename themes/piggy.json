@@ -1,5 +1,6 @@
 {
     "name": "piggy",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#725961",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#f52e6244",
-        "editorBracketMatch.border":"#fd6a5d"
+        "editorBracketMatch.border":"#fd6a5d",
+        "notification.background":"#2a2124",
+        "notification.foreground":"#edebe6",
+        "notification.buttonBackground":"#f52e62",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

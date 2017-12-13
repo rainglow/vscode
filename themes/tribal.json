@@ -1,5 +1,6 @@
 {
     "name": "tribal",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#60606f",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#c4353544",
-        "editorBracketMatch.border":"#5f5582"
+        "editorBracketMatch.border":"#5f5582",
+        "notification.background":"#25252b",
+        "notification.foreground":"#ffffff",
+        "notification.buttonBackground":"#c43535",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

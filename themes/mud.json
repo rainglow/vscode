@@ -1,5 +1,6 @@
 {
     "name": "mud",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#927e7c",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#e9c86544",
-        "editorBracketMatch.border":"#ff9787"
+        "editorBracketMatch.border":"#ff9787",
+        "notification.background":"#4e4241",
+        "notification.foreground":"#ffffff",
+        "notification.buttonBackground":"#e9c865",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

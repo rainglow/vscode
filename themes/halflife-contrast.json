@@ -1,5 +1,6 @@
 {
     "name": "halflife-contrast",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#4d4d4d",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#fc913a44",
-        "editorBracketMatch.border":"#7d8991"
+        "editorBracketMatch.border":"#7d8991",
+        "notification.background":"#0d0d0d",
+        "notification.foreground":"#cccccc",
+        "notification.buttonBackground":"#fc913a",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

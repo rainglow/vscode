@@ -1,5 +1,6 @@
 {
     "name": "earthsong-light",
+    "type": "light",
     "tokenColors": [
         {
             "settings": {
@@ -498,7 +499,17 @@
         "gitDecoration.ignoredResourceForeground":"#ffffff",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#95cc5e44",
-        "editorBracketMatch.border":"#db784d"
+        "editorBracketMatch.border":"#db784d",
+        "notification.background":"#ffffff",
+        "notification.foreground":"#4d463e",
+        "notification.buttonBackground":"#95cc5e",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
         ,
         "activityBar.background":"#4d463e",
         "activityBar.foreground":"#ffffff",
@@ -530,6 +541,7 @@
         "input.background":"#b3b3b3",
         "input.foreground":"#4d463e",
         "input.border":"#999999",
-        "input.placeholderForeground":"#e6e6e6"
+        "input.placeholderForeground":"#e6e6e6",
+        "notification.background":"#d9d9d9"
     }
 }

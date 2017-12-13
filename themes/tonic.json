@@ -1,5 +1,6 @@
 {
     "name": "tonic",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#717e83",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#75a1a444",
-        "editorBracketMatch.border":"#b8cd44"
+        "editorBracketMatch.border":"#b8cd44",
+        "notification.background":"#363c3f",
+        "notification.foreground":"#eeeeee",
+        "notification.buttonBackground":"#75a1a4",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

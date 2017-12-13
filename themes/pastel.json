@@ -1,5 +1,6 @@
 {
     "name": "pastel",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#6e6e6e",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#9474a944",
-        "editorBracketMatch.border":"#04c4a5"
+        "editorBracketMatch.border":"#04c4a5",
+        "notification.background":"#2f2f2f",
+        "notification.foreground":"#eeeeee",
+        "notification.buttonBackground":"#9474a9",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

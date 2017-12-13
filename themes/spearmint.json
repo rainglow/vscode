@@ -1,5 +1,6 @@
 {
     "name": "spearmint",
+    "type": "light",
     "tokenColors": [
         {
             "settings": {
@@ -498,7 +499,17 @@
         "gitDecoration.ignoredResourceForeground":"#ffffff",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#69adb544",
-        "editorBracketMatch.border":"#25808a"
+        "editorBracketMatch.border":"#25808a",
+        "notification.background":"#f2f8f8",
+        "notification.foreground":"#719692",
+        "notification.buttonBackground":"#69adb5",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
         ,
         "activityBar.background":"#719692",
         "activityBar.foreground":"#e1f0ee",
@@ -530,6 +541,7 @@
         "input.background":"#7bbdb4",
         "input.foreground":"#719692",
         "input.border":"#59aca1",
-        "input.placeholderForeground":"#bfdfdb"
+        "input.placeholderForeground":"#bfdfdb",
+        "notification.background":"#aed6d1"
     }
 }

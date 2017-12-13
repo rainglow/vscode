@@ -1,5 +1,6 @@
 {
     "name": "sourlick",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#7d7875",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#edf25244",
-        "editorBracketMatch.border":"#8ac27a"
+        "editorBracketMatch.border":"#8ac27a",
+        "notification.background":"#3b3937",
+        "notification.foreground":"#dedede",
+        "notification.buttonBackground":"#edf252",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

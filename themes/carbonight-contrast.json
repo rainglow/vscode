@@ -1,5 +1,6 @@
 {
     "name": "carbonight-contrast",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#4d4d4d",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#c4c4c444",
-        "editorBracketMatch.border":"#8c8c8c"
+        "editorBracketMatch.border":"#8c8c8c",
+        "notification.background":"#0d0d0d",
+        "notification.foreground":"#ffffff",
+        "notification.buttonBackground":"#c4c4c4",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

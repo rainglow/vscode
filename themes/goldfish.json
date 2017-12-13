@@ -1,5 +1,6 @@
 {
     "name": "goldfish",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#748189",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#f3863044",
-        "editorBracketMatch.border":"#fa6900"
+        "editorBracketMatch.border":"#fa6900",
+        "notification.background":"#3a4044",
+        "notification.foreground":"#f8f8f2",
+        "notification.buttonBackground":"#f38630",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

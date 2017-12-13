@@ -1,5 +1,6 @@
 {
     "name": "slime",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#6f7a83",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#faffdb44",
-        "editorBracketMatch.border":"#9fb3c2"
+        "editorBracketMatch.border":"#9fb3c2",
+        "notification.background":"#353a3e",
+        "notification.foreground":"#ffffff",
+        "notification.buttonBackground":"#faffdb",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

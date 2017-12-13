@@ -1,5 +1,6 @@
 {
     "name": "tron-contrast",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#425568",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#267fb544",
-        "editorBracketMatch.border":"#ffffff"
+        "editorBracketMatch.border":"#ffffff",
+        "notification.background":"#11161b",
+        "notification.foreground":"#aec2e0",
+        "notification.buttonBackground":"#267fb5",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

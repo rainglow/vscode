@@ -1,5 +1,6 @@
 {
     "name": "userscape",
+    "type": "light",
     "tokenColors": [
         {
             "settings": {
@@ -498,7 +499,17 @@
         "gitDecoration.ignoredResourceForeground":"#ffffff",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#a8c0e044",
-        "editorBracketMatch.border":"#355b8c"
+        "editorBracketMatch.border":"#355b8c",
+        "notification.background":"#ffffff",
+        "notification.foreground":"#879bb0",
+        "notification.buttonBackground":"#a8c0e0",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
         ,
         "activityBar.background":"#879bb0",
         "activityBar.foreground":"#f5f8fc",
@@ -530,6 +541,7 @@
         "input.background":"#7fa6d9",
         "input.foreground":"#879bb0",
         "input.border":"#588acd",
-        "input.placeholderForeground":"#ceddf0"
+        "input.placeholderForeground":"#ceddf0",
+        "notification.background":"#bacfea"
     }
 }

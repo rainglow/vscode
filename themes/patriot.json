@@ -1,5 +1,6 @@
 {
     "name": "patriot",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#757f84",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#de333c44",
-        "editorBracketMatch.border":"#2e6fd9"
+        "editorBracketMatch.border":"#2e6fd9",
+        "notification.background":"#393e41",
+        "notification.foreground":"#cad9e3",
+        "notification.buttonBackground":"#de333c",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

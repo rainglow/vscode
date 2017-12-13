@@ -1,5 +1,6 @@
 {
     "name": "frontier-contrast",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#655953",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#2ebf7e44",
-        "editorBracketMatch.border":"#f23a3a"
+        "editorBracketMatch.border":"#f23a3a",
+        "notification.background":"#1f1b19",
+        "notification.foreground":"#f8f8f2",
+        "notification.buttonBackground":"#2ebf7e",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

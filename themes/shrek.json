@@ -1,5 +1,6 @@
 {
     "name": "shrek",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#6e6e6e",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#b2de6244",
-        "editorBracketMatch.border":"#857a5e"
+        "editorBracketMatch.border":"#857a5e",
+        "notification.background":"#2f2f2f",
+        "notification.foreground":"#ffffff",
+        "notification.buttonBackground":"#b2de62",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

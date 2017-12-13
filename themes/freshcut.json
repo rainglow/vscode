@@ -1,5 +1,6 @@
 {
     "name": "freshcut",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#7b7d7d",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#4ecdc444",
-        "editorBracketMatch.border":"#00a8c6"
+        "editorBracketMatch.border":"#00a8c6",
+        "notification.background":"#3c3d3d",
+        "notification.foreground":"#f8f8f2",
+        "notification.buttonBackground":"#4ecdc4",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

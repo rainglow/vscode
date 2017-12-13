@@ -1,5 +1,6 @@
 {
     "name": "lavender",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#776386",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#a29dfa44",
-        "editorBracketMatch.border":"#b657ff"
+        "editorBracketMatch.border":"#b657ff",
+        "notification.background":"#362d3d",
+        "notification.foreground":"#e0ceed",
+        "notification.buttonBackground":"#a29dfa",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

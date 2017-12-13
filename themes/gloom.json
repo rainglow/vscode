@@ -1,5 +1,6 @@
 {
     "name": "gloom",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#6f8772",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#26a6a644",
-        "editorBracketMatch.border":"#ff5d38"
+        "editorBracketMatch.border":"#ff5d38",
+        "notification.background":"#364137",
+        "notification.foreground":"#d8ebe5",
+        "notification.buttonBackground":"#26a6a6",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

@@ -1,5 +1,6 @@
 {
     "name": "chocolate",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#845e32",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#8b6e4644",
-        "editorBracketMatch.border":"#ccb697"
+        "editorBracketMatch.border":"#ccb697",
+        "notification.background":"#271c0f",
+        "notification.foreground":"#ffffff",
+        "notification.buttonBackground":"#8b6e46",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }

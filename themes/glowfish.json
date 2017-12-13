@@ -1,5 +1,6 @@
 {
     "name": "glowfish",
+    "type": "dark",
     "tokenColors": [
         {
             "settings": {
@@ -498,6 +499,16 @@
         "gitDecoration.ignoredResourceForeground":"#657e4d",
         "gitDecoration.conflictingResourceForeground":"#9d37fc",
         "editorBracketMatch.background":"#95cc5e44",
-        "editorBracketMatch.border":"#db784d"
+        "editorBracketMatch.border":"#db784d",
+        "notification.background":"#262f1d",
+        "notification.foreground":"#6ea240",
+        "notification.buttonBackground":"#95cc5e",
+        "notification.buttonForeground":"#ffffff",
+        "notification.infoBackground":"#9d37fc",
+        "notification.warningBackground":"#e61f44",
+        "notification.errorBackground":"#f7b83d",
+        "notification.infoForeground":"#ffffff",
+        "notification.warningForeground":"#ffffff",
+        "notification.errorForeground":"#ffffff"
             }
 }
