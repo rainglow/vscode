@@ -509,6 +509,24 @@
         "notification.errorBackground":"#f7b83d",
         "notification.infoForeground":"#ffffff",
         "notification.warningForeground":"#ffffff",
-        "notification.errorForeground":"#ffffff"
+        "notification.errorForeground":"#ffffff",
+        "terminal.background":"#060606",
+        "terminal.foreground":"#e3e2e0",
+        "terminal.ansiBlack":"#2e2e2e",
+        "terminal.ansiBlue":"#1fa3f7",
+        "terminal.ansiCyan":"#19deee",
+        "terminal.ansiGreen":"#9ce12b",
+        "terminal.ansiMagenta":"#815daa",
+        "terminal.ansiRed":"#fe2720",
+        "terminal.ansiWhite":"#ffffff",
+        "terminal.ansiYellow":"#fdc328",
+        "terminal.ansiBrightBlack":"#565656",
+        "terminal.ansiBrightBlue":"#1fa7fb",
+        "terminal.ansiBrightCyan":"#7cfdf3",
+        "terminal.ansiBrightGreen":"#b8e274",
+        "terminal.ansiBrightMagenta":"#a17ded",
+        "terminal.ansiBrightRed":"#fe4354",
+        "terminal.ansiBrightWhite":"#aeaca9",
+        "terminal.ansiBrightYellow":"#fed75d"
             }
 }
