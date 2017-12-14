@@ -430,6 +430,13 @@
             "settings": {
                 "foreground": "#f7b83d"
             }
+        },
+        {
+            "name": "Template expressions.",
+            "scope": "meta.template.expression",
+            "settings": {
+                "foreground": "#e3e2e0"
+            }
         }
     ],
     "colors": {
