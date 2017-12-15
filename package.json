@@ -33,7 +33,7 @@
             },
             {
                 "label": "Box UK (rainglow)",
-                "uiTheme": "vs-light",
+                "uiTheme": "vs",
                 "path": "./themes/boxuk.json"
             },
             {
@@ -78,7 +78,7 @@
             },
             {
                 "label": "Earthsong Light (rainglow)",
-                "uiTheme": "vs-light",
+                "uiTheme": "vs",
                 "path": "./themes/earthsong-light.json"
             },
             {
@@ -103,7 +103,7 @@
             },
             {
                 "label": "Github (rainglow)",
-                "uiTheme": "vs-light",
+                "uiTheme": "vs",
                 "path": "./themes/github.json"
             },
             {
@@ -348,7 +348,7 @@
             },
             {
                 "label": "Snappy Light (rainglow)",
-                "uiTheme": "vs-light",
+                "uiTheme": "vs",
                 "path": "./themes/snappy-light.json"
             },
             {
@@ -378,7 +378,7 @@
             },
             {
                 "label": "Spearmint (rainglow)",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/spearmint.json"
             },
             {
@@ -428,7 +428,7 @@
             },
             {
                 "label": "Userscape (rainglow)",
-                "uiTheme": "vs-light",
+                "uiTheme": "vs",
                 "path": "./themes/userscape.json"
             },
             {
