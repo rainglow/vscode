@@ -25,6 +25,10 @@
                 "label": "Azure (rainglow)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/azure.json"
+            },{
+                "label": "Banner (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/banner.json"
             },
             {
                 "label": "Bold (rainglow)",
@@ -50,6 +54,16 @@
                 "label": "Chocolate (rainglow)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/chocolate.json"
+            },
+            {
+                "label": "Crackpot Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/crackpot-contrast.json"
+            },
+            {
+                "label": "Crackpot (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/crackpot.json"
             },
             {
                 "label": "Crisp (rainglow)",
@@ -107,6 +121,16 @@
                 "path": "./themes/github.json"
             },
             {
+                "label": "Glance Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/glance-contrast.json"
+            },
+            {
+                "label": "Glance (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/glance.json"
+            },
+            {
                 "label": "Gloom Contrast (rainglow)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/gloom-contrast.json"
@@ -157,6 +181,26 @@
                 "path": "./themes/heroku.json"
             },
             {
+                "label": "Hive Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hive-contrast.json"
+            },
+            {
+                "label": "Hive (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hive.json"
+            },
+            {
+                "label": "Horizon Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/horizon-contrast.json"
+            },
+            {
+                "label": "Horizon (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/horizon.json"
+            },
+            {
                 "label": "Hyrule Contrast (rainglow)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hyrule-contrast.json"
@@ -175,6 +219,11 @@
                 "label": "Iceberg (rainglow)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/iceberg.json"
+            },
+            {
+                "label": "Isotope (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/isotope.json"
             },
             {
                 "label": "Juicy Contrast (rainglow)",
@@ -242,6 +291,11 @@
                 "path": "./themes/mintchoc.json"
             },
             {
+                "label": "Morass (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/morass.json"
+            },
+            {
                 "label": "Mud Contrast (rainglow)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/mud-contrast.json"
@@ -250,6 +304,16 @@
                 "label": "Mud (rainglow)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/mud.json"
+            },
+            {
+                "label": "Newton Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/newton-contrast.json"
+            },
+            {
+                "label": "Newton (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/newton.json"
             },
             {
                 "label": "Otakon (rainglow)",
@@ -310,6 +374,11 @@
                 "label": "Rainbow (rainglow)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/rainbow.json"
+            },
+            {
+                "label": "Rebellion (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/rebellion.json"
             },
             {
                 "label": "Revelation Contrast (rainglow)",
@@ -392,9 +461,24 @@
                 "path": "./themes/stark.json"
             },
             {
+                "label": "Stealth (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/stealth.json"
+            },
+            {
+                "label": "Storm (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/storm.json"
+            },
+            {
                 "label": "Super (rainglow)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/super.json"
+            },
+            {
+                "label": "Tickle (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tickle.json"
             },
             {
                 "label": "Tonic (rainglow)",
@@ -425,6 +509,21 @@
                 "label": "Turnip (rainglow)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/turnip.json"
+            },
+            {
+                "label": "Violaceous (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/violaceous.json"
+            },
+            {
+                "label": "Warlock Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/warlock-contrast.json"
+            },
+            {
+                "label": "Warlock (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/warlock.json"
             },
             {
                 "label": "Userscape (rainglow)",
