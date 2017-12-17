@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.1.0 | 2017.12.17
+
+Twenty new themes added.
+
 ## 1.0.4 | 2017.12.15
 
 Use vs theme instead of missing vs-light.
