@@ -33,6 +33,17 @@ Clone the repository into `~/.vscode/extensions` and restart the editor.
 
 ### Useful Information
 
+To override the status bar colors, add the following to your settings JSON. (Change the colors as you see fit.)
+
+```json
+"workbench.colorCustomizations": {
+    "statusBar.background": "#333",
+    "statusBar.foreground": "#fff",
+    "statusBar.noFolderBackground": "#333",
+    "statusBar.noFolderForeground": "#fff"
+}
+```
+
 This project is an evolution of my colour schemes project found at [https://github.com/daylerees/colour-schemes](https://github.com/daylerees/colour-schemes). Peacock was the first ever theme. I created it to try and find something to use other than Monokai. It's now a favourite for many users!
 
 If you'd like to report a bug with one of the color schemes, please raise an issue on the repository rather than submitting a pull request. This is because the themes run through a generation process, and editing the themes directly is not advised!
