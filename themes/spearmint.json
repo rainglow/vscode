@@ -534,7 +534,10 @@
         "terminal.ansiBrightMagenta":"#a17ded",
         "terminal.ansiBrightRed":"#fe4354",
         "terminal.ansiBrightWhite":"#aeaca9",
-        "terminal.ansiBrightYellow":"#fed75d"
+        "terminal.ansiBrightYellow":"#fed75d",
+        "extensionButton.prominentBackground":"#69adb5",
+        "extensionButton.prominentForeground":"#ffffff",
+        "extensionButton.prominentHoverBackground":"#8bc0c6"
         ,
         "activityBar.background":"#719692",
         "activityBar.foreground":"#e1f0ee",

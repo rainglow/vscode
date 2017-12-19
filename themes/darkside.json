@@ -534,6 +534,9 @@
         "terminal.ansiBrightMagenta":"#a17ded",
         "terminal.ansiBrightRed":"#fe4354",
         "terminal.ansiBrightWhite":"#aeaca9",
-        "terminal.ansiBrightYellow":"#fed75d"
+        "terminal.ansiBrightYellow":"#fed75d",
+        "extensionButton.prominentBackground":"#1cc3e8",
+        "extensionButton.prominentForeground":"#ffffff",
+        "extensionButton.prominentHoverBackground":"#4acfed"
             }
 }
