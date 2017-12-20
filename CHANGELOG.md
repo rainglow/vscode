@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.2.0 | 2017.12.20
+
+18 new themes.
+
 ## 1.1.1 | 2017.12.19
 
 Color extension button.
