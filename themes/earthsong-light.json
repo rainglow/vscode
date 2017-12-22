@@ -8,12 +8,12 @@
                 "foreground": "#4d463e",
                 "selectionForeground": "#ffffff",
                 "findHighlight": "#ffe792",
-                "findHighlightForeground": "#ffffff",
+                "findHighlightForeground": "#000000",
                 "selectionBorder": "#ffffff",
-                "activeGuide": "#9d550f",
-                "bracketsForeground": "#db784d",
+                "activeGuide": "#dddddd",
+                "bracketsForeground": "#4d463e",
                 "bracketsOptions": "underline",
-                "bracketContentsForeground": "#95cc5e",
+                "bracketContentsForeground": "#4d463e",
                 "bracketContentsOptions": "underline",
                 "tagsOptions": "stippled_underline"
             }
@@ -172,8 +172,8 @@
             "name": "Invalid",
             "scope": "invalid",
             "settings": {
-                "background": "#00a8c6",
-                "foreground": "#f8f8f0",
+                "background": "#ba5050",
+                "foreground": "#6b1010",
                 "fontStyle": ""
             }
         },
@@ -181,8 +181,8 @@
             "name": "Invalid deprecated",
             "scope": "invalid.deprecated",
             "settings": {
-                "background": "#00a8c6",
-                "foreground": "#f8f8f0"
+                "background": "#ba5050",
+                "foreground": "#6b1010"
             }
         },
         {
@@ -407,7 +407,7 @@
             "name": "Markdown pre",
             "scope": "markup.raw.block.markdown",
             "settings": {
-                "foreground": "#00a8c6"
+                "foreground": "#ba5050"
             }
         },
         {
@@ -444,7 +444,7 @@
         "editor.background": "#ffffff",
         "editorCursor.foreground": "#111111",
         "editor.foreground": "#4d463e",
-        "editorWhitespace.foreground": "#3b3a32",
+        "editorWhitespace.foreground": "#dddddd",
         "editor.lineHighlightBackground": "#eeeeee",
         "editor.selectionBackground": "#60a36555",
         "sideBar.background":"#ffffff",
@@ -539,6 +539,13 @@
         "extensionButton.prominentForeground":"#ffffff",
         "extensionButton.prominentHoverBackground":"#aed885"
         ,
+        "editorGutter.modifiedBackground":"#c48405",
+        "editorGutter.addedBackground":"#59a50b",
+        "editorGutter.deletedBackground":"#a30e29",
+        "gitDecoration.modifiedResourceForeground":"#c48405",
+        "gitDecoration.deletedResourceForeground":"#a30e29",
+        "gitDecoration.untrackedResourceForeground":"#59a50b",
+        "gitDecoration.conflictingResourceForeground":"#6a1faf",
         "activityBar.background":"#4d463e",
         "activityBar.foreground":"#ffffff",
         "sideBar.background":"#f2f2f2",

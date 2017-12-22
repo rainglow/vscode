@@ -539,6 +539,13 @@
         "extensionButton.prominentForeground":"#ffffff",
         "extensionButton.prominentHoverBackground":"#01a4d0"
         ,
+        "editorGutter.modifiedBackground":"#c48405",
+        "editorGutter.addedBackground":"#59a50b",
+        "editorGutter.deletedBackground":"#a30e29",
+        "gitDecoration.modifiedResourceForeground":"#c48405",
+        "gitDecoration.deletedResourceForeground":"#a30e29",
+        "gitDecoration.untrackedResourceForeground":"#59a50b",
+        "gitDecoration.conflictingResourceForeground":"#6a1faf",
         "activityBar.background":"#414f5c",
         "activityBar.foreground":"#ffffff",
         "sideBar.background":"#f2f2f2",

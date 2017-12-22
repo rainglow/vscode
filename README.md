@@ -5,7 +5,7 @@
 [![Installs](https://img.shields.io/vscode-marketplace/d/daylerees.rainglow.svg)](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
 [![Rating](https://img.shields.io/vscode-marketplace/r/daylerees.rainglow.svg)](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
 
-Rainglow is a collection of color themes for a number of different editors and platforms. This repository consists of **100+ syntax and UI themes** for [Visual Studio Code](https://code.visualstudio.com/).
+Rainglow is a collection of color themes for a number of different editors and platforms. This repository consists of **180+ syntax and UI themes** for [Visual Studio Code](https://code.visualstudio.com/).
 
 <a href="https://raw.githubusercontent.com/rainglow/examples/master/vscode/gloom-contrast.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/vscode/gloom-contrast.png" width="340" /></a><a href="https://raw.githubusercontent.com/rainglow/examples/master/vscode/kiwi.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/vscode/kiwi.png" width="340" /></a><a href="https://raw.githubusercontent.com/rainglow/examples/master/vscode/piggy.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/vscode/piggy.png" width="340" /></a><a href="https://raw.githubusercontent.com/rainglow/examples/master/vscode/earthsong.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/vscode/earthsong.png" width="340" /></a>
 
