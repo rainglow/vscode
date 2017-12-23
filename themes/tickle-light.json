@@ -536,7 +536,7 @@
         "terminal.ansiBrightWhite":"#aeaca9",
         "terminal.ansiBrightYellow":"#fed75d",
         "extensionButton.prominentBackground":"#65c699",
-        "extensionButton.prominentForeground":"#ffffff",
+        "extensionButton.prominentForeground":"#35443d",
         "extensionButton.prominentHoverBackground":"#8ad4b2"
         ,
         "editorGutter.modifiedBackground":"#c48405",
