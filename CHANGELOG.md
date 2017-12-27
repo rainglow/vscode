@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.3.2 | 2017.12.27
+
+Style peekview, hover colors, and a few more.
+
 ## 1.3.1 | 2017.12.23
 
 Fix foreground contrast on extension buttons.
