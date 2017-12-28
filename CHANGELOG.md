@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.4.0 | 2017.12.28
+
+All themes have 3 variants. New themes added including colorblind.
+
 ## 1.3.2 | 2017.12.27
 
 Style peekview, hover colors, and a few more.
