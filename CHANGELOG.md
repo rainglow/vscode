@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.4.1 | 2017.12.29
+
+Better styling including missing widgets and terminal support.
+
 ## 1.4.0 | 2017.12.28
 
 All themes have 3 variants. New themes added including colorblind.
