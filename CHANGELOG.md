@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.5.0 | 2018.01.01
+
+54 new themes including Laracasts and Codecourse.
+
 ## 1.4.2 | 2018.01.01
 
 Happy new year! Fixed some text rendering on Slime.
