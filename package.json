@@ -1,6 +1,6 @@
 {
     "name": "rainglow",
-    "version": "1.5.0",
+    "version": "1.5.1",
     "displayName": "Rainglow",
     "description": "Rainglow color themes by Dayle Rees",
     "publisher": "daylerees",
@@ -850,6 +850,21 @@
                 "label": "Mintchoc Light (rainglow)",
                 "uiTheme": "vs",
                 "path": "./themes/mintchoc-light.json"
+            },
+            {
+                "label": "Monzo Contrast (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monzo-contrast.json"
+            },
+            {
+                "label": "Monzo (rainglow)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monzo.json"
+            },
+            {
+                "label": "Monzo Light (rainglow)",
+                "uiTheme": "vs",
+                "path": "./themes/monzo-light.json"
             },
             {
                 "label": "Morass Contrast (rainglow)",
