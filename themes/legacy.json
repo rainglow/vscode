@@ -481,7 +481,7 @@
         "input.activeBorder":"#267fb5",
         "progressBar.background":"#ffb20d",
         "focusBorder":"#267fb5",
-        "button.background":"#ffffff",
+        "button.background":"#ffb20d",
         "button.foreground":"#ffffff",
         "panel.background":"#354252",
         "editorWidget.background":"#354252",
