@@ -1,5 +1,5 @@
 {
-  "name": "vision-colorblind",
+  "name": "vision-protanopia",
   "type": "dark",
   "tokenColors": [
     {
@@ -56,7 +56,8 @@
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "fontStyle": ""
+        "fontStyle": "",
+        "foreground": "#fdba2c"
       }
     },
     {
